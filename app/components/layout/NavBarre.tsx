@@ -41,8 +41,8 @@ export default function NavBarre() {
     >
       {/* Logo */}
       <div className="flex items-center ">
-        <Image src="/logo_icon/iconM.png" alt="logo" width={40} height={20} />
-        <h1 className="md:text-2xl font-extrabold">Boka Expo</h1>
+        <Image src="/logo_icon/iconM.png" alt="logo" width={50} height={20} />
+        <h1 className="md:text-2xl text-xl font-extrabold">Boka Expo</h1>
       </div>
 
       {/* Desktop Menu */}
