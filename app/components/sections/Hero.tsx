@@ -11,7 +11,7 @@ export default function Hero(){
      innovateurs avec le public, les partenaires et les investisseurs.`
 
      return(
-      <section className="flex flex-col md:items-center justify-center w-full h-screen   md:px-32 md:py-0  bg-linear-to-bl from-[#1f1b1e] via-[#2a1d1866] to-[#f04d0740]">
+      <section className="flex flex-col md:items-center justify-center w-full h-screen   md:px-32 md:py-0  bg-gradient-to-bl from-[#1f1b1e] via-[#2a1d1866] to-[#f04d0740]">
           
 
             <div className="flex flex-col w-full h-full items-center justify-center ">

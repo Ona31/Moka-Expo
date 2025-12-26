@@ -57,7 +57,7 @@ export default function Def() {
         {cards.map((card, index) => (
           <div
             key={index}
-            className=" bg-linear-to-bl from-[#1f1b1e5d] via-[#2a1d183c] to-[#f04d071c] backdrop-blur-md p-6  border-br border rounded-2xl shadow-md hover:shadow-lg transition"
+            className=" bg-gradient-to-bl from-[#1f1b1e5d] via-[#2a1d183c] to-[#f04d071c] backdrop-blur-md p-6  border-br border rounded-2xl shadow-md hover:shadow-lg transition"
           >
             <div className="mb-4">{card.icon}</div>
             <h3 className="text-xl font-semibold mb-2">{card.title}</h3>

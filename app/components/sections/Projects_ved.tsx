@@ -10,7 +10,7 @@ import Btn from "../ui/Btn";
 export default function Projects_vedette(){
     return(
 
-        <section id="vedette" className=" block w-full h-auto  bg-linear-to-bl from-[#1f1b1e5d] via-[#2a1d183c] to-[#f04d071c] md:px-32 px-4 py-8 md:py-30 border-t border-b border-dashed border-br">
+        <section id="vedette" className=" block w-full h-auto  bg-gradient-to-bl from-[#1f1b1e5d] via-[#2a1d183c] to-[#f04d071c] md:px-32 px-4 py-8 md:py-30 border-t border-b border-dashed border-br">
          
                     <div className="bloc  items-center gap-4 ">
                   <h1 className="text-center text-text font-bold
