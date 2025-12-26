@@ -9,7 +9,7 @@ export default function Card(){
             
        
         {/* Card 2 */}
-          <div className="bloc w-[240px] md:w-[320px] bg-background rounded-md backdrop-blur-md  shadow-sm border border-br hover:shadow-md transition absolute rotate-15 md:-rotate-6 md:right-60 md:-top-5 right-10 top-15">
+          <div className="bloc w-[240px] md:w-[320px] bg-deg rounded-md backdrop-blur-md  shadow-sm border border-br hover:shadow-md transition absolute rotate-15 md:-rotate-6 md:right-60 md:-top-5 right-10 top-15">
           <div className="relative w-full h-40 mb-4">
             <Image
               src="/projects/6.jpg"
@@ -18,7 +18,7 @@ export default function Card(){
               className="object-cover  rounded-md  "
             />
           </div>
-          <div className="bloc  p-4 bg-bg">
+          <div className="bloc bg-deg  p-4 bg-bg">
             <h3 className="text-md font-semibold mb-2">
             Open Source & Moderne
           </h3>
@@ -37,7 +37,7 @@ export default function Card(){
               className="object-cover  rounded-md  "
             />
           </div>
-          <div className="bloc p-4 bg-bg">
+          <div className="bloc bg-deg  p-4 bg-bg">
             <h3 className="text-md font-semibold mb-2">
             Open Source & Moderne
           </h3>
@@ -58,7 +58,7 @@ export default function Card(){
               className="object-cover  rounded-md  "
             />
           </div>
-          <div className="bloc p-4 bg-bg">
+          <div className="bloc bg-deg  p-4 bg-bg">
             <h3 className="text-md font-semibold mb-2">
             Open Source & Moderne
           </h3>
